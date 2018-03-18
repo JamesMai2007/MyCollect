@@ -1,0 +1,12 @@
+.idea
+*.iml
+dist
+build
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+target
+*.class
+*.bak
